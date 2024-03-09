@@ -1,0 +1,7 @@
+.data{
+    border: 2px solid goldenrod;
+    margin: 10px;
+    padding: 0;
+    gap: 5px;
+    border-radius: 8px;
+}

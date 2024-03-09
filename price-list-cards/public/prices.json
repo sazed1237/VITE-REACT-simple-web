@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 29.99,
+        "features": [
+            "Access to cardio equipment",
+            "Basic fitness classes"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Membership",
+        "price": 49.99,
+        "features": [
+            "Access to cardio and weight equipment",
+            "Standard fitness classes",
+            "Locker room access"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Membership",
+        "price": 79.99,
+        "features": [
+            "Access to all gym facilities",
+            "Premium fitness classes",
+            "Personal trainer sessions",
+            "Sauna and spa access"
+        ]
+    }
+]
